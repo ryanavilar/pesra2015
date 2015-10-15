@@ -311,6 +311,14 @@ a:focus {
     width: 80%;
 }
 
+.howto p{
+    font-size: 20px;
+}
+
+.howto i{
+    font-size: 50px;
+}
+
 .shalom{
     width:40%;
 }
